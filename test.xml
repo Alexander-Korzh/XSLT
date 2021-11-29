@@ -1,0 +1,32 @@
+<?xml-stylesheet type='text/xsl' href='result.xsl'?>
+
+<Table>
+	<Item>
+		<Type>A</Type>
+		<Product>KETTLE</Product>
+		<Quantity>31</Quantity>
+		<RepairSum>7153.07</RepairSum>
+		<DetailSum>12659.52</DetailSum>
+		<Subtotal>19812.59</Subtotal>
+	</Item>
+	<Item>
+		<Type>B</Type>
+		<Product>ESPRESSO FULL AUTOM</Product>
+		<Quantity>15</Quantity>
+		<RepairSum>19830.56</RepairSum>
+		<DetailSum>1021.12</DetailSum>
+		<Subtotal>20851.68</Subtotal>
+	</Item>
+	<Item>
+		<Type>C</Type>
+		<Product>Мясорубки</Product>
+		<Quantity>8</Quantity>
+		<RepairSum>1222.72</RepairSum>
+		<DetailSum>0</DetailSum>
+		<Subtotal>1222.72</Subtotal>
+	</Item>
+	<TotalQuantity>635</TotalQuantity>
+	<TotalRepairSum>202356.88</TotalRepairSum>
+	<TotalDetailSum>96088.55</TotalDetailSum>
+	<Total>298445.43</Total>
+</Table>
